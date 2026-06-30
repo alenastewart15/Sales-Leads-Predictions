@@ -28,15 +28,15 @@ The program:
 ## Project Visuals
 
 ### Lead Temperature Categorization
-![Lead Temperature] (<img width="382" height="282" alt="Graph 1" src="https://github.com/user-attachments/assets/e6010885-43e5-40f6-89a3-766b5359b0e2" />)
+![Lead Temperature] <img width="382" height="282" alt="Graph 1" src="https://github.com/user-attachments/assets/e6010885-43e5-40f6-89a3-766b5359b0e2" />
 
 
 ### Average Order Value by Lead Category
-![Average Order Value] (<img width="395" height="282" alt="Graph 2" src="https://github.com/user-attachments/assets/950d5d49-fe34-4a77-8f70-ce8350475eb1" />)
+![Average Order Value] <img width="395" height="282" alt="Graph 2" src="https://github.com/user-attachments/assets/950d5d49-fe34-4a77-8f70-ce8350475eb1" />
 
 
 ### Lead Success Probability
-![Success Probability] (<img width="382" height="282" alt="Graph 3" src="https://github.com/user-attachments/assets/791ebe9a-7200-4864-9409-63d493a16769" />)
+![Success Probability] <img width="382" height="282" alt="Graph 3" src="https://github.com/user-attachments/assets/791ebe9a-7200-4864-9409-63d493a16769" />
 
 
 ## Author
